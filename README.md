@@ -1,5 +1,5 @@
-### Hi, I'm Kauã Vitório.
-<a target="_blank" href="https://www.linkedin.com/in/kaua-vitorio-42024b1a3/">
+### Hi, I'm Matheus Souza
+<a target="_blank" href="https://www.linkedin.com/in/kaua-vitorio-42024ba3/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5511998022004&text=Ola!!%20Tudo%20bem%3F%20Me%20chamo%3A">
@@ -21,24 +21,16 @@
 
 I'm a systems development student at Etec Basilides De Godoy
 
-<b>[My personal website →](www.kauavitorio.com)</b> - In development🔨<br/>
-<b>[More about me &rarr;](www.kauavitorio.com)</b> - In development🔨<br/>
+<b>[My personal website →](www.MatheusSouza.com)</b> - In developmsent🔨<br/>
 <b>[My Twitter profile &rarr;](https://twitter.com/kauavitorioofc)</b><br/>
 
----- 
-<b>Mini projects</b>
-<br/>
-[System Strength](https://github.com/Kauavitorio/Mobile-SystemStrength)<b> • </b>Etec Project<br/>
-[EXTRA](https://github.com/Kauavitorio/Projeto-Extra)<b> • </b>Extra supermarket<br/>
-[BOT FOR DISCORD](https://github.com/Kauavitorio/Bot-Discord)<b> • </b>Learning to develop basic and advanced functions
-<br/>
 ----
 <br/>
+
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png"></code>
 <code><img height="30" width="30" src="https://cdn.volaresystems.com/Images/Posts/2019/12/aspnet_logo.png"></code>
 <code><img height="30" width="30" src="https://dicasdejava.com.br/images/logo-java.png"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code>
 
 <!--
-**Kauavitorio/Kauavitorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
