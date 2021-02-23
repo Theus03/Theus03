@@ -13,7 +13,7 @@
 </a>
 <br/>
 
----- 
+<hr style="background=#fff">
 
 
 I'm a systems development student at Etec Basilides De Godoy
