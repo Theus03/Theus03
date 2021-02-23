@@ -19,7 +19,6 @@
 I'm a systems development student at Etec Basilides De Godoy
 
 <b>[My personal website →](www.MatheusSouza.com)</b> - In developmsent🔨<br/>
-<b>[My Twitter profile &rarr;](https://twitter.com/kauavitorioofc)</b><br/>
 
 ----
 <br/>
