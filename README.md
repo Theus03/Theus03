@@ -1,8 +1,9 @@
 ### My Name is, Matheus!
 
-<a target="_blank" href="https://www.linkedin.com/in/matheus-souza-230991191/">
+
+<div style="background:#fff;"><a target="_blank" href="https://www.linkedin.com/in/matheus-souza-230991191/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a></div>
 <a target="_blank" href="https://www.instagram.com/matheusssleite/?hl=pt">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
