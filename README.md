@@ -27,6 +27,7 @@ I'm a systems development student at Etec Basilides De Godoy
 <code><img height="30" width="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"></code>
 <code><img height="30" width="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code>
+<code><img height="30" width="30" src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry.png"></code>
 <code><img height="30" width="30" src="https://cdn.volaresystems.com/Images/Posts/2019/12/aspnet_logo.png"></code>
  <code><img height="30" width="30" src="https://images.squarespace-cdn.com/content/v1/5c34264ac258b4ad37d3fd65/1582153562172-LFGGT08OLOGT76VPRODJ/ke17ZwdGBToddI8pDm48kIPovhqrWrbcienBHO4smvBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFhobXY7HHgf21B4XB6C5b6HZW-_dw9FvbHLDLwGO5_rqEcAfnVBrEqrgp1UxUHGkY/c%23.png?format=300w"></code>
  <code><img height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"></code>
