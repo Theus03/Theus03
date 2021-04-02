@@ -18,7 +18,7 @@
 
 I'm a systems development student at Etec Basilides De Godoy
 
-<b>[My personal website →](www.MatheusSouza.com)</b> - In developmsent🔨<br/>
+<b>[My personal website →](www.MatheusSouza.com)</b> - In development🔨<br/>
 
 ----
 <br/>
