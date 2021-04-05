@@ -20,6 +20,11 @@ I'm a systems development student at Etec Basilides De Godoy
 
 <b>[My personal website →](www.MatheusSouza.com)</b> - In development🔨<br/>
 
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kauavitorio&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</details>
+
 <details> 
   <summary>:zap: My Programming Languages</summary>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Theus03&layout=compact&langs_count=8&theme=dracula"/>
