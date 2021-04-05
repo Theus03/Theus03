@@ -1,6 +1,4 @@
 ### My Name is, Matheus!
-
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <a target="_blank" href="https://www.linkedin.com/in/matheus-souza-230991191/">
@@ -18,7 +16,7 @@
 <br/>
 
 
-I'm a systems development student at Etec Basilides De Godoy
+<h2>I'm a systems development student at Etec Basilides De Godoy</h2>
 
 <b>[My personal website →](www.MatheusSouza.com)</b> - In development🔨<br/>
 
