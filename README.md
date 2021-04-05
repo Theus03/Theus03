@@ -20,6 +20,11 @@ I'm a systems development student at Etec Basilides De Godoy
 
 <b>[My personal website →](www.MatheusSouza.com)</b> - In development🔨<br/>
 
+<details> 
+  <summary>:zap: My Programming Languages</summary>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Theus03&layout=compact&langs_count=8&theme=dracula"/>
+</details>
+
 ----
 <br/>
 <code><img height="30" width="30" src="https://images.squarespace-cdn.com/content/v1/5c34264ac258b4ad37d3fd65/1582158189818-FF7LLPL17HU71ZZFT5QB/ke17ZwdGBToddI8pDm48kAGDjD8pkScgnH6r32OC_XV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmCT4wkaQKY3gDbObJw4_TshNDX4vFd04w-cR4UG461ndf_wYISYIrEbXGwqKdfLPf/xd.png?format=300whttps://images.squarespace-cdn.com/content/v1/5c34264ac258b4ad37d3fd65/1582158189818-FF7LLPL17HU71ZZFT5QB/ke17ZwdGBToddI8pDm48kAGDjD8pkScgnH6r32OC_XV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmCT4wkaQKY3gDbObJw4_TshNDX4vFd04w-cR4UG461ndf_wYISYIrEbXGwqKdfLPf/xd.png?format=300w"></code>
