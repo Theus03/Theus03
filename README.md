@@ -1,6 +1,8 @@
 ### My Name is, Matheus!
 
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 <a target="_blank" href="https://www.linkedin.com/in/matheus-souza-230991191/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -20,6 +22,8 @@ I'm a systems development student at Etec Basilides De Godoy
 
 <b>[My personal website →](www.MatheusSouza.com)</b> - In development🔨<br/>
 
+
+
 <details>
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Theus03&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
@@ -30,7 +34,6 @@ I'm a systems development student at Etec Basilides De Godoy
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Theus03&layout=compact&langs_count=8&theme=dracula"/>
 </details>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ----
 <br/>
