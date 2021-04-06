@@ -1,5 +1,5 @@
 ### My Name is, Matheus!
-<img src="https://cdn.discordapp.com/attachments/707671310104526863/828750155616223252/matttfoiii.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 <a target="_blank" href="https://www.linkedin.com/in/matheus-souza-230991191/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -31,7 +31,7 @@
   <summary>:zap: My Programming Languages</summary>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Theus03&layout=compact&langs_count=8&theme=dracula"/>
 </details>
-
+<img src="https://cdn.discordapp.com/attachments/707671310104526863/828750155616223252/matttfoiii.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ----
 <br/>
