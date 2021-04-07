@@ -1,4 +1,4 @@
-### My name is Matheus, I'm a Front-End developer
+### 👋 My name is Matheus, I'm a Front-End developer
 <img src="https://cdn.discordapp.com/attachments/707671310104526863/828750155616223252/matttfoiii.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador TheusCode">
 
 <a target="_blank" href="https://www.linkedin.com/in/matheus-souza-230991191/">
