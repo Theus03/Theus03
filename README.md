@@ -16,7 +16,7 @@
 <br/>
 
 
-<h4> 🎓💻 Systems Development</h4>
+<h4>🎓💻 Systems Development</h4>
 
 <details>
   <summary>:zap: Github Stats</summary>
