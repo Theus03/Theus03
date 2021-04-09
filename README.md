@@ -3,16 +3,16 @@
 <img src="https://cdn.discordapp.com/attachments/707671310104526863/830183518205116468/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3730373637313331303130.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador TheusCode"><br/>
 
 <a target="_blank" href="https://www.linkedin.com/in/matheus-souza-230991191/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <img align="left" alt="LinkdeIN" width="35px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 <a target="_blank" href="https://www.instagram.com/matheusssleite/?hl=pt">
-  <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1617801706~hmac=04348cc2aae2c22a5b9304f544c5cf25" />
+  <img align="left" alt="Instagram" width="35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 <a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvmZvfwDWkqpSWCrjFBwWxZWvfhNnfXdHQFmkJPBkLqGwPGVtgTwVxJsnjsXPRCXTTvWJq">
-  <img align="left" alt="Gmail" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/281/281786.svg?token=exp=1617801860~hmac=179caea96cb538a422bb2c2bc5ebcba3" />
+  <img align="left" alt="Gmail" width="35px" src="https://img.icons8.com/plasticine/100/000000/gmail.png" />
 </a>
 <a target="_blank" href="https://discord.com/channels/@me">
-  <img align="left" alt="Discord" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111370.svg?token=exp=1617801741~hmac=d1607853ce6ef6fa7b80c578c27db1c4" />
+  <img align="left" alt="Discord" width="35px" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png"/>
 </a>
 <br/>
 
