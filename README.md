@@ -2,20 +2,6 @@
 
 <img src="https://cdn.discordapp.com/attachments/707671310104526863/830183518205116468/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3730373637313331303130.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador TheusCode"><br/>
 
-<a target="_blank" href="https://www.linkedin.com/in/matheus-souza-230991191/">
-  <img align="left" alt="LinkdeIN" width="35px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
-<a target="_blank" href="https://www.instagram.com/matheusssleite/?hl=pt">
-  <img align="left" alt="Instagram" width="35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-</a>
-<a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvmZvfwDWkqpSWCrjFBwWxZWvfhNnfXdHQFmkJPBkLqGwPGVtgTwVxJsnjsXPRCXTTvWJq">
-  <img align="left" alt="Gmail" width="35px" src="https://img.icons8.com/plasticine/100/000000/gmail.png" />
-</a>
-<a target="_blank" href="https://discord.com/channels/@me">
-  <img align="left" alt="Discord" width="35px" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png"/>
-</a>
-<br/>
-
 <h4>🎓💻 Systems Development</h4>
 <div style="display: flex;">
   <details>
@@ -32,9 +18,6 @@
 </details>
 </div>
 
-
-
-
 ----
 <br/>
 <code><img height="30" width="30" src="https://images.squarespace-cdn.com/content/v1/5c34264ac258b4ad37d3fd65/1582158189818-FF7LLPL17HU71ZZFT5QB/ke17ZwdGBToddI8pDm48kAGDjD8pkScgnH6r32OC_XV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmCT4wkaQKY3gDbObJw4_TshNDX4vFd04w-cR4UG461ndf_wYISYIrEbXGwqKdfLPf/xd.png?format=300whttps://images.squarespace-cdn.com/content/v1/5c34264ac258b4ad37d3fd65/1582158189818-FF7LLPL17HU71ZZFT5QB/ke17ZwdGBToddI8pDm48kAGDjD8pkScgnH6r32OC_XV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmCT4wkaQKY3gDbObJw4_TshNDX4vFd04w-cR4UG461ndf_wYISYIrEbXGwqKdfLPf/xd.png?format=300w"></code>
@@ -45,9 +28,22 @@
 <code><img height="30" width="30" src="https://cdn.volaresystems.com/Images/Posts/2019/12/aspnet_logo.png"></code>
  <code><img height="30" width="30" src="https://images.squarespace-cdn.com/content/v1/5c34264ac258b4ad37d3fd65/1582153562172-LFGGT08OLOGT76VPRODJ/ke17ZwdGBToddI8pDm48kIPovhqrWrbcienBHO4smvBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFhobXY7HHgf21B4XB6C5b6HZW-_dw9FvbHLDLwGO5_rqEcAfnVBrEqrgp1UxUHGkY/c%23.png?format=300w"></code>
  <code><img height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"></code>
-<code><img height="30" width="30" src="https://dicasdejava.com.br/images/logo-java.png"></code>
+<code><img height="30" width="30" src="https://dicasdejava.com.br/images/logo-java.png"></code><br/>
 
-
+<h2>Entre em contato:</h2>
+<a target="_blank" href="https://www.linkedin.com/in/matheus-souza-230991191/">
+  <img align="left" alt="LinkdeIN" width="35px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a>
+<a target="_blank" href="https://www.instagram.com/matheusssleite/?hl=pt">
+  <img align="left" alt="Instagram" width="35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+</a>
+<a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvmZvfwDWkqpSWCrjFBwWxZWvfhNnfXdHQFmkJPBkLqGwPGVtgTwVxJsnjsXPRCXTTvWJq">
+  <img align="left" alt="Gmail" width="35px" src="https://img.icons8.com/plasticine/100/000000/gmail.png" />
+</a>
+<a target="_blank" href="https://discord.com/channels/@me">
+  <img align="left" alt="Discord" width="35px" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png"/>
+</a>
+<br/>
 
 
 
