@@ -20,7 +20,7 @@
 
 <details>
   <summary>📈 Github Stats</summary><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Theus03&&show_icons=true&title_color=99F5EA&icon_color=03A87C&text_color=fff&bg_color=282A36" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Theus03&&show_icons=true&title_color=99F5EA&icon_color=03A87C&text_color=fff&bg_color=282A36" style="position:absolute"  >
 </details>
 <details>
   <summary>👨‍💻 My Programming Languages</summary><br/>
