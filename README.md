@@ -16,9 +16,7 @@
 </a>
 <br/>
 
-
-  <h4>🎓💻 Systems Development</h4>
-
+<h4>🎓💻 Systems Development</h4>
 <div style="display: flex;">
   <details>
   <summary>📈 Github Stats</summary><br/>
