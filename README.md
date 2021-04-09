@@ -20,11 +20,11 @@
 
 <details>
   <summary>📈 Github Stats</summary><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Theus03&&show_icons=true&title_color=99F5EA&icon_color=03A87C&text_color=fff&bg_color=282A36">
+  <img src="https://github-readme-stats.vercel.app/api?username=Theus03&&show_icons=true&title_color=99F5EA&icon_color=03A87C&text_color=fff&bg_color=282A36" >
 </details>
 <details>
   <summary>👨‍💻 My Programming Languages</summary><br/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Theus03&title_color=99F5EA&layout=compact&langs_count=8&theme=dracula"/>
+  <img style="position:absolute" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Theus03&title_color=99F5EA&layout=compact&langs_count=8&theme=dracula"/>
 </details>
 <details>
   <summary> 🔛 My Commits</summary><br/>
