@@ -1,4 +1,5 @@
 ### 👋 My name is Matheus, I'm a Front-End developer
+
 <img src="https://cdn.discordapp.com/attachments/707671310104526863/828750155616223252/matttfoiii.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador TheusCode" style="display: flex; position: absolute;">
 
 <a target="_blank" href="https://www.linkedin.com/in/matheus-souza-230991191/">
@@ -17,8 +18,8 @@
 
 
 <h4>🎓💻 Systems Development</h4>
-
-<details>
+<div style="display: flex;">
+  <details>
   <summary>📈 Github Stats</summary><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Theus03&&show_icons=true&title_color=99F5EA&icon_color=03A87C&text_color=fff&bg_color=282A36" style="position:absolute"  >
 </details>
@@ -30,6 +31,8 @@
   <summary> 🔛 My Commits</summary><br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theus03&&circle=99F5EA&text_color=99F5EA&theme=dracula"/>
 </details>
+</div>
+
 
 
 
