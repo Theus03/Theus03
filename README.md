@@ -1,6 +1,6 @@
 ### 👋 My name is Matheus, I'm a Front-End developer
 
-<img src="https://cdn.discordapp.com/attachments/707671310104526863/828750155616223252/matttfoiii.png" min-width="400px" max-width="400px" width="400px" align="rigth" alt="Computador TheusCode" style="display: flex; position: absolute;">
+<img src="https://cdn.discordapp.com/attachments/707671310104526863/828750155616223252/matttfoiii.png" min-width="400px" max-width="400px" width="400px"  alt="Computador TheusCode" style="display: flex; position: absolute;">
 
 <a target="_blank" href="https://www.linkedin.com/in/matheus-souza-230991191/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111499.svg?token=exp=1617801659~hmac=a28e3f407b9710f5af807ae4456a37c9" />
