@@ -19,7 +19,7 @@
 </div>
 
 ----
-<br/>
+<h2> Habilidades:</h2>
 <code><img height="30" width="30" src="https://images.squarespace-cdn.com/content/v1/5c34264ac258b4ad37d3fd65/1582158189818-FF7LLPL17HU71ZZFT5QB/ke17ZwdGBToddI8pDm48kAGDjD8pkScgnH6r32OC_XV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmCT4wkaQKY3gDbObJw4_TshNDX4vFd04w-cR4UG461ndf_wYISYIrEbXGwqKdfLPf/xd.png?format=300whttps://images.squarespace-cdn.com/content/v1/5c34264ac258b4ad37d3fd65/1582158189818-FF7LLPL17HU71ZZFT5QB/ke17ZwdGBToddI8pDm48kAGDjD8pkScgnH6r32OC_XV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmCT4wkaQKY3gDbObJw4_TshNDX4vFd04w-cR4UG461ndf_wYISYIrEbXGwqKdfLPf/xd.png?format=300w"></code>
 <code><img height="30" width="30" src="https://images.squarespace-cdn.com/content/v1/5c34264ac258b4ad37d3fd65/1582158238678-EMBWQ4FFUGJ5SBA1X4DX/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI7Hk5b7wKtplcrxPf3ag-g6VC0ObVEO8cEICumLtlwuA/figma.png?format=300w"></code>
 <code><img height="30" width="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"></code>
@@ -30,7 +30,7 @@
  <code><img height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"></code>
 <code><img height="30" width="30" src="https://dicasdejava.com.br/images/logo-java.png"></code><br/>
 
-<h2>Entre em contato:</h2>
+<h2> Entre em contato:</h2>
 <a target="_blank" href="https://www.linkedin.com/in/matheus-souza-230991191/">
   <img align="left" alt="LinkdeIN" width="35px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
