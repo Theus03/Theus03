@@ -3,7 +3,7 @@
 <img src="https://cdn.discordapp.com/attachments/707671310104526863/830183518205116468/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3730373637313331303130.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador TheusCode"><br/>
 
 <a target="_blank" href="https://www.linkedin.com/in/matheus-souza-230991191/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111499.svg?token=exp=1617801659~hmac=a28e3f407b9710f5af807ae4456a37c9" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 <a target="_blank" href="https://www.instagram.com/matheusssleite/?hl=pt">
   <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1617801706~hmac=04348cc2aae2c22a5b9304f544c5cf25" />
