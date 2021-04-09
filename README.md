@@ -22,7 +22,7 @@
 <div style="display: flex;">
   <details>
   <summary>📈 Github Stats</summary><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Theus03&&show_icons=true&title_color=99F5EA&icon_color=03A87C&text_color=fff&bg_color=282A36" style="position:absolute"  >
+  <img width="200px" src="https://github-readme-stats.vercel.app/api?username=Theus03&&show_icons=true&title_color=99F5EA&icon_color=03A87C&text_color=fff&bg_color=282A36" style="position:absolute"  >
 </details>
 <details>
   <summary>👨‍💻 My Programming Languages</summary><br/>
@@ -30,7 +30,7 @@
 </details>
 <details>
   <summary> 🔛 My Commits</summary><br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theus03&&circle=99F5EA&text_color=99F5EA&theme=dracula"/>
+  <img width="200px" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theus03&&circle=99F5EA&text_color=99F5EA&theme=dracula"/>
 </details>
 </div>
 
