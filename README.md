@@ -14,7 +14,7 @@
 </details>
 <details>
   <summary> 🔛 My Commits</summary><br/>
-  <img width="400px"src="https://github-readme-streak-stats.herokuapp.com/?user=theus03&&circle=99F5EA&text_color=99F5EA&theme=dracula"/>
+  <img width="400px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=theus03&&circle=99F5EA&text_color=99F5EA&theme=dracula"/>
 </details>
 </div>
 
