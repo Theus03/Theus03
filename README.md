@@ -40,9 +40,6 @@
 <a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvmZvfwDWkqpSWCrjFBwWxZWvfhNnfXdHQFmkJPBkLqGwPGVtgTwVxJsnjsXPRCXTTvWJq">
   <img align="left" alt="Gmail" width="35px" src="https://img.icons8.com/plasticine/100/000000/gmail.png" />
 </a>
-<a target="_blank" href="https://discord.com/channels/@me">
-  <img align="left" alt="Discord" width="35px" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png"/>
-</a>
 <br/>
 
 <!--
