@@ -31,7 +31,7 @@
 <code><img height="30" width="30" src="https://dicasdejava.com.br/images/logo-java.png"></code><br/>
 
 <h2> Entre em contato:</h2>
-<a target="_blank" href="https://www.linkedin.com/in/matheus-souza-230991191/">
+<a target="_blank" href="https://www.linkedin.com/in/matheusssleite">
   <img align="left" alt="LinkdeIN" width="35px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 <a target="_blank" href="https://www.instagram.com/matheusssleite/?hl=pt">
