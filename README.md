@@ -98,7 +98,7 @@
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 </p>
 
-<!--<h3 align="left">Version Control:</h3>
+<h3 align="left">Version Control:</h3>
 <p align="left">
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -109,15 +109,12 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>-->
+</p>
 <br>
 
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theus03&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical"   alt="matheusssleite" /></p>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Theus03&&show_icons=true&title_color=99F5EA&icon_color=03A87C&text_color=fff&bg_color=282A36" style="position:absolute"  >
-    <img width="400px" height="150px"src="https://github-readme-streak-stats.herokuapp.com/?user=theus03&&circle=99F5EA&text_color=99F5EA&theme=dracula"/>
-  </div>
-<!--<br></br><br></br><br></br><br></br>-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theus03&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="matheusssleite" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 
