@@ -77,6 +77,7 @@
    <img alt="VueJS" src="https://img.shields.io/badge/vue.JS-%23239120?style=for-the-badge&logo=vue-js"/>
   <img alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="UI/UX" src="https://img.shields.io/badge/ui/ux%20design-%23FF26BE?style=for-the-badge&logoColor=white"/>
   <img alt= "dotNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  
