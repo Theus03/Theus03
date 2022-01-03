@@ -60,6 +60,7 @@
  
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="VueJs" src="https://img.shields.io/badge/vue.JS-%23239120?style=for-the-badge&logo=vue-js"/>
+ <img alt= "dotNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
  <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
  <img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 
@@ -68,7 +69,7 @@
 <h3 align="left">Databases:</h3>
 <p align="left">
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-%23316190.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="SQL" src ="https://img.shields.io/badge/SQL-%2300599A.svg?style=for-the-badge&logo=SQL&logoColor=white%22"/>
+<img alt="SQL" src ="https://img.shields.io/badge/SQL-%23DB3434?style=for-the-badge&logoColor=white%22"/>
 </p>
 
 
@@ -78,9 +79,6 @@
   <img alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="UI/UX" src="https://img.shields.io/badge/ui/ux%20design-%23FF26BE?style=for-the-badge&logoColor=white"/>
-  <img alt= "dotNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
- 
 </p>
 
 <h3 align="left">Design Tools:</h3>
