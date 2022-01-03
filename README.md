@@ -66,8 +66,11 @@
 </p>
 
 <h3 align="left">Databases:</h3>
+<p align="left">
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-%23316190.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="SQL" src ="https://img.shields.io/badge/SQL-%2300599A.svg?style=for-the-badge&logo=SQL&logoColor=white%22"/>
+</p>
+
 
 <h3 align="left">Learning:</h3>
 <p align="left">
@@ -110,14 +113,9 @@
 <br>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theus03&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="matheusssleite" />
-</p>
-  <p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theus03&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical"   alt="matheusssleite" /></p>
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Theus03&&show_icons=true&title_color=99F5EA&icon_color=03A87C&text_color=fff&bg_color=282A36" style="position:absolute"  >
-  </p>
-  <p>
     <img width="400px" height="150px"src="https://github-readme-streak-stats.herokuapp.com/?user=theus03&&circle=99F5EA&text_color=99F5EA&theme=dracula"/>
-    </p>
   </div>
 <!--<br></br><br></br><br></br><br></br>-->
 
