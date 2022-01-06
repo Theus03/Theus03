@@ -1,7 +1,5 @@
 <!-- ### 👋 My name is Matheus Souza, I'm a Front-End Developer
 
-<img src="https://cdn.discordapp.com/attachments/707671310104526863/830183518205116468/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3730373637313331303130.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador TheusCode"><br/>
-
 <h4>🎓💻 Software developer</h4>
 <div style="display: flex;">
   <details>
