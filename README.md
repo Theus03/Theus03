@@ -67,13 +67,14 @@
 <h3 align="left">Databases:</h3>
 <p align="left">
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-%23316190.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="SQL" src ="https://img.shields.io/badge/SQL-%23DB3434?style=for-the-badge&logoColor=white%22"/>
+<img alt="SQL" src ="https://img.shields.io/badge/SQL-%23DB3434?style=for-the-badge&logoColor=white%22"/> 
+
 </p>
 
 
 <h3 align="left">Learning:</h3>
 <p align="left">
-   <img alt="VueJS" src="https://img.shields.io/badge/vue.JS-%23239120?style=for-the-badge&logo=vue-js"/>
+   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="UI/UX" src="https://img.shields.io/badge/ui/ux%20design-%23FF26BE?style=for-the-badge&logoColor=white"/>
