@@ -55,6 +55,7 @@
 
 <h3 align="left">Frameworks and Libs:</h3>
 <p align="left">
+<img alt="Next" src="https://img.shields.io/badge/-Next-C0C0C0?style=for-the-badge&logoColor=000000"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="VueJs" src="https://img.shields.io/badge/vue.JS-%23239120?style=for-the-badge&logo=vue-js"/>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
